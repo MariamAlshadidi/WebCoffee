@@ -1,2 +1,2 @@
-## Responsive Websites With Bootstrap5
+## Responsive Website With Bootstrap5
 
